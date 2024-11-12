@@ -52,16 +52,16 @@
 
 **Features**
 
--Login/Signup
-    -Sign in / Sign up form
-    -redirect to Browse page
--Browse(after authentication)
-    -Header
-    -Main Movie
-        -Trailer in Background
-        -Title and Description
-        -Movie and Suggestions
-            -MovieLists * N
--NetflixGPT
-    -Search Bar
-    -Movie Suggestions
+- Login/Signup
+    - Sign in / Sign up form
+    - redirect to Browse page
+- Browse(after authentication)
+    - Header
+    - Main Movie
+        - Trailer in Background
+        - Title and Description
+        - Movie and Suggestions
+            - MovieLists * N
+- NetflixGPT
+    - Search Bar
+    - Movie Suggestions
